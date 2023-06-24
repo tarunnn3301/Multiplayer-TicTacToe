@@ -12,7 +12,7 @@ A completely Responsive Multiplayer TicTacToe Game
 
 
 ## Installation
-After cloning this repository, migrate to ```Multiplayer-TicTacToe`` folder.
+After cloning this repository, migrate to ```Multiplayer-TicTacToe``` folder.
 
 Install dependencies (Client Side)
 ```bash
